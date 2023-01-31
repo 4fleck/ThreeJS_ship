@@ -403,13 +403,4 @@ if  (tick==0) {
     }}
 
     
-     {{html
-    <!DOCTYPE>
-    <head>
-    <script SRC="http://livelab.spb.ru/x3d/three.min.js"></script>
-    <script SRC="http://livelab.spb.ru/x3d/TrackballControls.js"></script>
-    <script SRC="http://livelab.spb.ru/x3d/OBJLoader.js"></script>
-    <script SRC="http://livelab.spb.ru/x3d/DDSLoader.js"></script>
-    <script SRC="http://livelab.spb.ru/x3d/MTLLoader.js"></script>
-    </head>
-     }}
+     
