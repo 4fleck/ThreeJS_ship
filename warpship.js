@@ -72,7 +72,7 @@ if  (tick==0) {
      WW=520; HH=303; OpenCanvas('wCanvas',WW,HH)
      var scene, camera, renderer; CreateScene(WW,HH);
     
-     X=0; Y=0; Z=0; W=10; K=0;
+     X=0; Y=0; Z=0; W=10;
     
         world=DrawWorld();
         world.scale.set(W,W,W);
